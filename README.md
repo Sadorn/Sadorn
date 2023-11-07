@@ -13,6 +13,9 @@
 #### Tools
 ![Static Badge](https://img.shields.io/badge/VS%20code-purple?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Godot%20Engine-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white)
+
 <br>
 
 ## Problem Solving & Competitive Programming
