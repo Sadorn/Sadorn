@@ -5,20 +5,13 @@
 # Skills
 
 ### Programming language
-##### Main
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white)
-<br>
-
-##### Used once at least
 ![Static Badge](https://img.shields.io/badge/GDscript-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)
 <br>
 
-### Tools
-##### Main
+#### Tools
 ![Static Badge](https://img.shields.io/badge/VS%20code-purple?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-<br>
-##### Used once at least
 ![Static Badge](https://img.shields.io/badge/Godot%20Engine-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white)
