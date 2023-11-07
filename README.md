@@ -4,7 +4,7 @@
 
 # Skills
 
-### Programming language
+#### Programming language
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GDscript-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)
@@ -20,7 +20,7 @@
 <br>
 
 # Problem Solving & Competitive Programming
-### Solved.ac
+#### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadorn)](https://solved.ac/sadorn)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=sadorn&theme=warm)](https://solved.ac/sadorn) <br>
 
