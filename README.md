@@ -5,16 +5,16 @@
 # Skills
 
 #### Programming language
-![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white)](https://www.java.com)
-![Static Badge](https://img.shields.io/badge/GDscript-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/GDscript-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)](https://godotengine.org)
 <br>
 
 #### Tools
-![Static Badge](https://img.shields.io/badge/VS%20code-purple?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Godot%20Engine-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/VS%20code-purple?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com)
+[![Static Badge](https://img.shields.io/badge/Godot%20Engine-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)](https://godotengine.org)
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com)
+[![Static Badge](https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com)
 <br>
 
 <br>
