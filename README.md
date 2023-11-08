@@ -6,7 +6,7 @@
 
 #### Programming language
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white)](https://www.java.com)
 ![Static Badge](https://img.shields.io/badge/GDscript-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)
 <br>
 
