@@ -4,7 +4,10 @@
 
 # Skills
 
-#### Programming language
+#### Studing on...
+[![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+[![Static Badge](https://img.shields.io/badge/JavaScript-gold?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white)](https://www.java.com)
 [![Static Badge](https://img.shields.io/badge/GDscript-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)](https://godotengine.org)
