@@ -11,7 +11,8 @@
 [![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white)](https://www.java.com)
 [![Static Badge](https://img.shields.io/badge/GDscript-blue?style=flat-square&logo=Godot%20Engine&logoColor=white)](https://godotengine.org)
-![Static Badge](https://img.shields.io/badge/Node.js-429F6B?style=flat-square&logo=node.js&logoColor=white&link=https%3A%2F%2Fnodejs.org%2Fen)
+[![Static Badge](https://img.shields.io/badge/Node.js-429F6B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en)
+
 
 <br>
 
