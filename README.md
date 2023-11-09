@@ -1,5 +1,5 @@
 # 🖤Welcome🖤
-~~심심하니까 눈요강을 위해 범고래를 가져옴~~
+~~심심하니까 눈요강을 위해 범고래 가져옴~~
 ![image](https://i2.ruliweb.com/cmt/21/04/26/1790d3595964c2785.png)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadorn&count_bg=%23C873E7&title_bg=%236238B6&icon=godotengine.svg&icon_color=%23E4B7B7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sadorn)](https://solved.ac/sadorn) 
@@ -26,5 +26,5 @@
 # 📝Problem Solving & 🏅Competitive Programming
 #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadorn)](https://solved.ac/sadorn)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sadorn&theme=warm)](https://solved.ac/sadorn) <br>
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sadorn&theme=warm)](https://solved.ac/sadorn) <br
 
