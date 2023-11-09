@@ -4,7 +4,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadorn&count_bg=%23C873E7&title_bg=%236238B6&icon=godotengine.svg&icon_color=%23E4B7B7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sadorn)](https://solved.ac/sadorn) 
 <br>
-아는건 ㅈ뿔도 없지만 이브게 꾸미고 싶엇슴니다 ㅎㅎㅈㅅ!
 
 # 🖥️Skills
 
