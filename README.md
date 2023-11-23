@@ -1,5 +1,4 @@
 # 🖤Welcome🖤
-~~여왕님을 찬양하라~~
 ![image](https://github.com/Sadorn/Sadorn/assets/150145045/76a6a65c-42be-47c9-8bf0-016f94d3f81a)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadorn&count_bg=%23C873E7&title_bg=%236238B6&icon=godotengine.svg&icon_color=%23E4B7B7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
